@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+*.txt
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Django specific
+db.sqlite3
+*.log
+*.pot
+*.pyc
+local_settings.py
+media/
+
+# Static files
+staticfiles/
+static/
+build/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
