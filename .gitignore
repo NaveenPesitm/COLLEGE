@@ -8,7 +8,7 @@ __pycache__/
 *.egg-info/
 *.manifest
 *.spec
-*.txt
+
 
 # Virtual environment
 venv/
